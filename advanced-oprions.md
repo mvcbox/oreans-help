@@ -29,8 +29,9 @@ OPTION_ADVANCED_SKIP_STR_ENCRYPT_HEADER=YES
 ------------------------------------------------------------------------------------------------------------------------
 
 Other options:
+`OPTION_ADVANCED_ENABLE_ANTIDEBUG_TRX4` - Enable extended Anti-Debug [YES / NO] 
 
-`OPTION_ADVANCED_CHECK_DEBUGGER_EXT` (for CHECK_DEBUGGER) - YES / NO 
+`OPTION_ADVANCED_CHECK_DEBUGGER_EXT` - Enable extended Anti-Debug for CHECK_DEBUGGER [YES / NO] 
 
 `OPTION_ADVANCED_DETECT_VIRTUAL_ENVIRONMENT_MK1` - YES / NO
 
