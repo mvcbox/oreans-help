@@ -20,7 +20,12 @@ OPTION_ADVANCED_MANUAL_MUTATE_MACRO_2 = 0x3100 - 0x3600
 ```
 
 ------------------------------------------------------------------------------------------------------------------------
+"[+] Added internal option for extra entry point obfuscation"
+```
+OPTION_ADVANCED_OEP_IAT_SCRAMBLE=YES
+```
 
+------------------------------------------------------------------------------------------------------------------------
 Fix encrypt strings:
 ```
 OPTION_ADVANCED_SKIP_STR_ENCRYPT_HEADER=YES
